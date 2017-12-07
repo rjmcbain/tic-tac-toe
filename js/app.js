@@ -1,7 +1,6 @@
 console.log("OMG IM FUCKING ALIVE");
 
 
-
 var turn=0;
 
 $('.cell').on("click" ,function(){
